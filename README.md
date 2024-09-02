@@ -10,8 +10,9 @@
 - :school: I am studing bachelor's degree in systems at UADE
 - :technologist: I love using Software as a solution for every `Problem`.
 - :thinking: I’m currently working as a freelancer, this is [MY RESUME](https://media.licdn.com/dms/image/v2/D4D2DAQFQchYTU3th9Q/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1725281211107?e=1725897600&v=beta&t=kuVkfQExFMQvDvQEWNahDKV-93F0wGAL_ONecAPZuhI).
-- :boom: You can visit my fiverr profile <a href="https://www.fiverr.com/agustin_romero?public_mode=true">Fiverr profile</a>.
+- :shopping_cart: You can visit my fiverr profile <a href="https://www.fiverr.com/agustin_romero?public_mode=true">Fiverr profile</a>.
 - :technologist: my main languages for coding are Python :snake: and JAVA :coffee:.
+- :bar_chart: here it is my <a href="https://leetcode.com/u/capi29/">leetcode profile</a> 
 <br>
 
 
