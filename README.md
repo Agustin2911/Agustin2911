@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 aling ="center">## Hi there👋, i am Agustín Romero</h1> 
 
 <!--
 **Agustin2911/Agustin2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
